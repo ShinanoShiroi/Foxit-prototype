@@ -22,11 +22,11 @@ Damiano Leo
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to launch the game:
 
-Windows 64 Bit: "...\Builds\Windows\x86_64\Foxit_x86_64\Foxit.exe"
+Windows 64 Bit: "...\Windows\x86_64\Foxit_x86_64\Foxit.exe"
 
-Windows 32 Bit: "...\Builds\Windows\x86\Foxit_x86\Foxit.exe"
+Windows 32 Bit: "...\Windows\x86\Foxit_x86\Foxit.exe"
 
-Mac:		"...\Builds\Mac\x86_64\Foxit_x84_64.app"
+Mac:		"...\Mac\x86_64\Foxit_x84_64.app"
 
 
 Passwort: @tQjI41vouDP
