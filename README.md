@@ -22,14 +22,18 @@ Damiano Leo
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to launch the game:
 
+Download all files of desired operation system.
+Unpack the 001 File with 7z or winrar.
+
 Windows 64 Bit: "...\Windows\x86_64\Foxit_x86_64\Foxit.exe"
 
 Windows 32 Bit: "...\Windows\x86\Foxit_x86\Foxit.exe"
 
 Mac:		"...\Mac\x86_64\Foxit_x84_64.app"
 
+Enjoy!
 
-Passwort: @tQjI41vouDP
+
 
 
 
