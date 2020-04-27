@@ -3,7 +3,7 @@
 Sehr geehrte Damen und Herren
 
 In dieser Datei finden sie folgende Informationen, wie Sie mein Spiel starten können.
-Mein Spiel muss man nicht instalieren, weil es "portable" ist.
+Das Spiel muss man nicht instalieren, weil es "portable" ist.
 
 Entpacken Sie zuerst diese 7z-Datei "Games". Dann können Sie, wenn Sie wollen, die 7z-Datei löschen und den Ordner irgendwo auf Ihrem Computer speichern.
 Um diese Datei zu entpacken, benötigen sie einen Entpacker wie z.B 7-Zip oder WinRar (beide Programme sind kostenlos).
