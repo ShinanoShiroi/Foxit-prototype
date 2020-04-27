@@ -21,9 +21,9 @@ Damiano Leo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Windows 64 Bit: "...\Builds\Windows\x86_64\Foxit_x86_64\FoxIT.exe"
+Windows 64 Bit: "...\Builds\Windows\x86_64\Foxit_x86_64\Foxit.exe"
 
-Windows 32 Bit: "...\Builds\Windows\x86\Foxit_x86\FoxIT.exe"
+Windows 32 Bit: "...\Builds\Windows\x86\Foxit_x86\Foxit.exe"
 
 Mac:		"...\Builds\Mac\x86_64\Foxit_x84_64.app"
 
