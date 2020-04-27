@@ -1,5 +1,10 @@
 # Foxit
 
+ Foxit  Copyright (C) 2019  Damiano Leo
+    This program comes with ABSOLUTELY NO WARRANTY;
+    This is free software, and you are welcome to redistribute it
+    under certain conditions.
+
 Sehr geehrte Damen und Herren
 
 In dieser Datei finden sie folgende Informationen, wie Sie mein Spiel starten können.
