@@ -1,4 +1,4 @@
-# Foxit school final thesis
+# Foxit (school final thesis)
 
 Sehr geehrte Damen und Herren
 
