@@ -1,41 +1,15 @@
-# Foxit (school final thesis)
+# Foxit (school project)
 
-Sehr geehrte Damen und Herren
+Hi Humans!
 
-In diesem Verzeichnis finden sie folgende Informationen, wie Sie mein Spiel starten können.
-Das Spiel muss man nicht instalieren, weil es "portable" ist.
+I had to do a school project, so I decided to create a game. It's a platformer game inspired by Mario Bros.
+The Game mustn't be installed. It can easily be launched by the exe file.
 
-Entpacken Sie zuerst diese 7z-Datei "Games". Dann können Sie, wenn Sie wollen, die 7z-Datei löschen und den Ordner irgendwo auf Ihrem Computer speichern.
-Um diese Datei zu entpacken, benötigen sie einen Entpacker wie z.B 7-Zip oder WinRar (beide Programme sind kostenlos).
-
-Sie können dieses Spiel auf Mac oder auf Windows spielen.
-
-
-Dieses Spiel wurde bisher nur auf Windows getestet.
-Wenn man auf "Foxit.exe" draufklickt, sollte es nun starten (Windows).
-
-Wenn man im Spiel ist, kann man solange spielen wie man möchte. Um das Spiel zu beenden muss mann "escape" drücken.
-
-Freundliche Grüsse
-Damiano Leo 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How to launch the game:
 
-Download all files of desired operation system.
-Unpack the 001 File with 7z or winrar.
-
-Windows 64 Bit: "...\Windows\x86_64\Foxit_x86_64\Foxit.exe"
-
-Windows 32 Bit: "...\Windows\x86\Foxit_x86\Foxit.exe"
-
-Mac:		"...\Mac\x86_64\Foxit_x84_64.app"
-
-Enjoy!
-
-
-
-
+1. Download all files of the desired operation system.
+2. Unpack the 001 File with 7z, winrar or any other such kind of software.
+3. Enjoy!
 
  Foxit  Copyright (C) 2019  Damiano Leo
     This program comes with ABSOLUTELY NO WARRANTY;
