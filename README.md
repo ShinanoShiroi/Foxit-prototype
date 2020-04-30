@@ -3,7 +3,7 @@
 Hi Humans!
 
 I had to do a school project, so I decided to create a game. It's a platformer game inspired by Mario Bros.
-The Game mustn't be installed. It can easily be launched by the exe file.
+The Prototype mustn't be installed. It can easily be launched by the exe file.
 # Images
 <img src="https://github.com/s1lentp4nther/Foxit-prototype/blob/master/Images/game.png" align="center"></img>
 # Notes
