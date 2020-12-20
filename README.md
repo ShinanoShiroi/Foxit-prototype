@@ -13,8 +13,11 @@ This project is only a prototype. I might work on a full game and release it.
 2. Unpack the 001 File with 7z, winrar or any other such kind of software.
 3. Enjoy!
 
+NOTE: On this Project won't be worked anymore but it can still be downloaded.
+
  Foxit  Copyright (C) 2019  Damiano Leo
     This program comes with ABSOLUTELY NO WARRANTY;
     This is free software, and you are welcome to redistribute it
     under certain conditions.
+    
 
